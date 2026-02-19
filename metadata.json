@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Arcade & Studio",
+  "description": "A multi-purpose application featuring a classic Snake game and advanced AI tools for image editing and analysis using Google Gemini models.",
+  "requestFramePermissions": []
+}
